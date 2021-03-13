@@ -1,0 +1,11 @@
+{
+    "apps": [
+        {
+            "name": "node-export-server",
+            "script": "./bin/cli.js",
+            "args": "--host localhost --enableServer 1 --allowCodeExecution 1",
+            "watch": true,
+            "log_date_format": "YYYY-MM-DD HH:mm Z"
+        }
+    ]
+}

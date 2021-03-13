@@ -10,6 +10,7 @@
     "highcharts-export-server": "./bin/cli.js"
   },
   "scripts": {
+    "start": "pm2 start process.json",
     "preinstall": "node ./pre.build.js",
     "postinstall": "node ./post.build.js",
     "install": "node ./build.js"

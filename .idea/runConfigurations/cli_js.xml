@@ -1,0 +1,5 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="cli.js" type="NodeJSConfigurationType" application-parameters="--host localhost --enableServer 1 --allowCodeExecution 1" nameIsGenerated="true" path-to-js-file="bin/cli.js" working-dir="$PROJECT_DIR$">
+    <method v="2" />
+  </configuration>
+</component>
